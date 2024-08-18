@@ -74,3 +74,11 @@ Exploring This Dataset Can Help With:
 
 ![image](https://github.com/user-attachments/assets/fe73f047-00ca-4168-b9b8-a97448cb4741) ![image](https://github.com/user-attachments/assets/5eefb573-eea7-4a64-88b8-bea59acb9720)
 
+![image](https://github.com/user-attachments/assets/ca3fab51-13f2-4115-af40-17f74f9a80e2)
+
+![image](https://github.com/user-attachments/assets/388aef84-6b2f-4eaa-9994-ee3bf8c5df3e)
+
+![image](https://github.com/user-attachments/assets/5692ba8f-944d-4bd1-acd6-0e33da978128)
+
+
+
