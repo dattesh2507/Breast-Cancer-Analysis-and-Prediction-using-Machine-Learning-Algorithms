@@ -44,12 +44,12 @@ Description: Features computed from digitized FNA images of breast masses, descr
 fractal dimension ("coastline approximation" - 1)
 Feature Values: Recoded with four significant digits. Missing Attribute Values: None reported.
 
-Class Distribution:
+**Class Distribution:**
 
 - 357 benign cases
 - 212 malignant cases
 
-Steps to Build the Prediction Model:
+## Steps to Build the Prediction Model:
 
 1-Data Preprocessing: -Handle categorical variables (e.g., Breast, Breast Quadrant, Diagnosis Result). -Normalize or scale numerical variables if necessary. -Split the data into training and testing sets.
 
